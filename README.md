@@ -1,12 +1,12 @@
 # CSS Animation
 
-This repository contains files for a CSS animation tutorial. The tutorial is designed to teach you how to create animations using CSS. The files include HTML, CSS, and JavaScript code that you can use to follow along with the tutorial.
+This repository contains files for a CSS animation tutorial. The tutorial is designed to teach you how to create animations using CSS. The files include HTML and code that you can use to follow along with the tutorial.
 
 ## Getting Started
 
 To get started with the tutorial, you will need to download or clone the repository to your local machine. You can do this by clicking on the "Code" button and selecting "Download ZIP" or by using Git to clone the repository.
 
-Once you have the files on your local machine, you can open the index.html file in your web browser to see the animations in action. You can also open the CSS and JavaScript files in a text editor to see how the animations are created.
+Once you have the files on your local machine, you can open the index.html file in your web browser to see the animations in action. You can also open the CSS files in a text editor to see how the animations are created.
 
 ## Tutorial Content
 
@@ -20,7 +20,7 @@ Each topic has a separate folder in the repository, with the files needed for th
 
 ## Requirements
 
-To follow along with the tutorial, you should have a basic understanding of HTML, CSS, and JavaScript. You should also have a text editor and a web browser installed on your local machine.
+To follow along with the tutorial, you should have a basic understanding of HTML and CSS. You should also have a text editor and a web browser installed on your local machine.
 
 ## Contributions
 
